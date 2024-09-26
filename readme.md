@@ -207,7 +207,7 @@ Further, we will also look at the Word Cloud overall then for individual labels
 
 ## 4. Sentiment Analysis with LSTM and Glove
 
-** Why LSTM (Long Short-Term Memory Networks)?**
+**Why LSTM (Long Short-Term Memory Networks)?**
 
 - Handling Sequential Data:
 
